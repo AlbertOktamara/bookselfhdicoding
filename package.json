@@ -1,5 +1,5 @@
 {
-  "name": "bookshelfapidicoding",
+  "name": "bookselfhdicoding",
   "version": "1.0.0",
   "description": "",
   "main": "./src/server.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HaradaKumiko/bookshelfapidicoding.git"
+    "url": "git+https://github.com/AlbertOktamara/bookselfhdicoding.github.io.git"
   },
   "author": "HaradaKumiko",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HaradaKumiko/bookshelfapidicoding/issues"
+    "url": "https://github.com/AlbertOktamara/bookselfhdicoding/issues"
   },
-  "homepage": "https://github.com/HaradaKumiko/bookshelfapidicoding#readme",
+  "homepage": "https://github.com/HaradaKumiko/bookselfhdicoding#readme",
   "dependencies": {
     "@hapi/hapi": "^21.3.2",
     "nanoid": "^3.1.22"
